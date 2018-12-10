@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>The Best Web Browser</title> 
+  </head>
+  <body>
+    <h1>Chrome, Edge, Firefox: which is the best web browser ?</h1>
+	<h3>Chorme</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Google_Chrome_icon_%282011%29.svg" height="200" width="200" border="1" alt = "the picture of chorme"> </img>
+    <a href="https://zh.wikipedia.org/wiki/File:Google_Chrome_icon_(2011).svg">Chorme</a>
+	<p> Google Chrome (commonly known simply as Chrome) is a freeware web browser developed by Google LLC It was first released on September 2, 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS and Android. Google Chrome is also the main component of Chrome OS, where it serves as a platform for running web apps.
+	</p>
+	<h3>Edge</h3>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Microsoft_Edge_logo.svg" height="200" width="200" border="1" alt = "the picture of edge"> </img>
+    <a href="https://fr.m.wikipedia.org/wiki/Fichier:Microsoft_Edge_logo.svg">Edge</a>
+    <p>Microsoft Edge (codename "Spartan") is a graphical web browser developed by Microsoft and included in Windows 10, Windows 10 Mobile and Xbox One devices, replacing Internet Explorer as the default web browser on all device classes. Edge was originally built with Microsoft's own proprietary EdgeHTML browser engine, but is currently being rebuilt as a Chromium-based browser, which means using the Blink engine.
+	</p>
+	
+	<h3>Firefox</h3>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg" height="200" width="200" border="1" alt = "the picture of Firefox"> </img>
+    <a href="https://zh.wikipedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg">Firefox</a>
+	<p>Mozilla Firefox (or simply Firefox) is a free and open-source web browser developed by The Mozilla Foundation and its subsidiary, Mozilla Corporation. Firefox is available for Windows, macOS, Linux, BSD, illumos and Solaris operating systems. Its sibling, Firefox for Android, is available for Android. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.
+	</p>
+  </body>
+</html>
+
+<!-- reference:https://en.wikipedia.org/wiki/Google_Chrome; https://en.wikipedia.org/wiki/Google_Chrome; https://en.wikipedia.org/wiki/Firefox -->
